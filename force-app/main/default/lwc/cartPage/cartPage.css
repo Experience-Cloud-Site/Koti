@@ -1,0 +1,12 @@
+.slds-box {
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.slds-text-heading_medium {
+    font-weight: bold;
+}
+
+.slds-theme_shade {
+    background: #f3f3f3;
+}
