@@ -1,0 +1,18 @@
+.custom-product-tile {
+    border: 1px solid #d8dde6;
+    border-radius: 8px;
+    padding: 16px;
+    background: #ffffff;
+    transition: transform 0.2s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.custom-product-tile:hover {
+    transform: scale(1.03);
+}
+
+.tile-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
