@@ -1,0 +1,23 @@
+.slds-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 7000;
+    background-color: white;
+    border: 1px solid #dddbda;
+    border-radius: 0.25rem;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.16);
+}
+
+.slds-dropdown__item {
+    padding: 0.5rem;
+}
+
+.slds-dropdown__item-link {
+    color: #006dcc;
+    text-decoration: none;
+}
+
+.slds-dropdown__item-link:hover {
+    text-decoration: underline;
+}
